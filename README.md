@@ -2,7 +2,10 @@
 having fun with graphQL 
 Simple Reading List using GraphQl and Apollo
 
-Do not forget to add your own connection string
+Do not forget to add your own connection string in server/app
+
+### `npm install`
+Run this command on /client and /server to install all needed dependencies
 
 ### `npm start`
 
