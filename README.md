@@ -1,4 +1,4 @@
-# graphQL
+# GraphQL
 having fun with graphQL 
 Simple Reading List using GraphQl and Apollo
 
