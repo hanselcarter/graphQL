@@ -16,10 +16,8 @@ app.use(
   })
 );
 
-mongoose.connect(
-  "mongodb+srv://hanselcarter:hanselrock14@cluster0-p3vjg.gcp.mongodb.net/test?retryWrites=true&w=majority",
-  { useNewUrlParser: true },
-  () => console.log("connected to db")
+mongoose.connect("Your connection string", { useNewUrlParser: true }, () =>
+  console.log("connected to db")
 );
 
 app.listen(4000, () => {
